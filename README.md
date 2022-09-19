@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm SirJamilton, co-founder at [bondi](https://www.bondi.city/).
+I'm SirJamilton, co-founder at [bondi](https://www.bondi.city/). Our repos are all private 🤫
 
 - 🔭 I’m currently working on JamAdventures, an indie game side project.
 - 🌱 I’m currently learning C++.
